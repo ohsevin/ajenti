@@ -6,7 +6,7 @@ distro
 python-socketio==5.5.2
 python-engineio==4.3.1
 greenlet==1.1.2
-gevent==21.12.0
+gevent==23.9.0
 gevent-websocket
 gipc==1.4.0
 itsdangerous
